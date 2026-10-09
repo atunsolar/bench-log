@@ -1,0 +1,2 @@
+circuit,quantity,predicted,measured,unit,error_pct,notes
+1 LED + 220 ohm at 5V,current,,,mA,,
